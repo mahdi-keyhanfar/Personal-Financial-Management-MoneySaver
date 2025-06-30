@@ -1,5 +1,5 @@
 <h3 align="center">
-  🚧 This Project is Under Development ‼️
+  🚧 This Project is Under Development
 </h3>
 
 ---
