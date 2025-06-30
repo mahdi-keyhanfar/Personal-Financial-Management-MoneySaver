@@ -53,8 +53,7 @@ MoneySaver.
 
 ### 🧑‍💻 Mahdi Keyhanfar  
 **Role:** Lead & Python Developer  
-
-**GitHub:** [@mahdi-keyhanfar](https://github.com/mahdi-keyhanfar)  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mahdi-keyhanfar&data=followers,repositories,stars,commits&theme=nautilus)]
 
 ---
 
