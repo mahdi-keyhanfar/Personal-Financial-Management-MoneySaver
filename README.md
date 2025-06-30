@@ -53,14 +53,13 @@ MoneySaver.
 
 ### 🧑‍💻 Mahdi Keyhanfar  
 **Role:** Lead & Python Developer  
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mahdi-keyhanfar&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/mahdi-keyhanfar)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mahdi-keyhanfar&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/mahdi-keyhanfar)
 
 ---
 
 ### 🧑‍💻 Hossein Esfahani  
 **Role:** Qt Designer | SQLite Developer
-
-**GitHub:** [@hosseinesfahani](https://github.com/hosseinesfahani)  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hosseinesfahani&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/hosseinesfahani)
 
 ## 📂 Installation
 
