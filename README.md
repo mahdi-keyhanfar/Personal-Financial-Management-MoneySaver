@@ -43,27 +43,21 @@
 - QDarkStyle (optional for dark theme)
 - jdatetime (for Jalali calendar)
 
-## 👨‍💻 Developers
+## 🖥️ Developers
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/mahdi-keyhanfar">
-        <img src="https://avatars.githubusercontent.com/u/106525358?v=4" width="100px;" alt="Mahdi Keyhanfar"/><br />
-        <sub><b>Mahdi Keyhanfar</b></sub>
-      </a><br />
-      <small>Lead Developer</small>
-    </td>
-    <!-- Add more developers here -->
-    <td align="center">
-      <a href="https://github.com/USERNAME">
-        <img src="https://avatars.githubusercontent.com/u/USERID?v=4" width="100px;" alt="Name"/><br />
-        <sub><b>Name</b></sub>
-      </a><br />
-      <small>Role</small>
-    </td>
-  </tr>
-</table>
+### 🧑‍💻 Mahdi Keyhanfar  
+**Role:** Lead & Python Developer  
+
+**GitHub:** [@mahdi-keyhanfar](https://github.com/mahdi-keyhanfar)  
+
+---
+
+### 🧑‍💻 Hossein Esfahani  
+**Role:** Qt Designer | SQLite Developer
+
+**GitHub:** [@hosseinesfahani](https://github.com/hosseinesfahani)  
+
+---
 
 ## 📂 Installation
 
