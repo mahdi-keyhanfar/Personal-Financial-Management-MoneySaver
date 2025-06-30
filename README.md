@@ -26,8 +26,7 @@
 - ✅ Beautiful and modern UI with PyQt6
 - ✅ Add/edit/delete income and expenses
 - ✅ Categorized transaction management
-- ✅ Summary and statistics dashboards
-- ✅ Persian (Jalali) calendar support (optional)
+- ✅ Persian (Jalali) calendar support
 - ✅ Local SQLite/Access database for storing records
 
 ## 📷 Screenshots
@@ -35,7 +34,6 @@
 > _You can add screenshots of your UI here_
 
 ![Main Window](screenshots/main.png)
-![Add Transaction](screenshots/add_transaction.png)
 
 ## 🔧 Technologies Used
 
