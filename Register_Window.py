@@ -16,7 +16,6 @@ cursor = conn.cursor()
 def register_wnd():
     
     global wnd_r
-    global txt_r_2, txt_r_3
     wnd_r = QWidget()
     wnd_r.setFixedSize(350, 300)
     wnd_r.setWindowTitle("Money Saver | Sign in")

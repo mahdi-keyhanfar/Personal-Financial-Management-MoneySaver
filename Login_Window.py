@@ -4,10 +4,15 @@ from PyQt6.QtGui import QIcon, QFont
 from variables import *
 import sys
 import os
+import sqlite3
 import Register_Window, Main_Window
 
 font_10 = QFont("Vazir", 10)
 app = QApplication(sys.argv)
+
+# set connection to database
+conn = sqlite3.connect("data-test.db")
+cursor = conn.cursor()
 
 def login_wnd():
 
