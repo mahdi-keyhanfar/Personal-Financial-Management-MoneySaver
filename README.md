@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square&logo=windows" />
 </p>
 
+## ❓ About MoneySaver
+
+**MoneySaver** 💰 is a personal finance app that helps you easily track and categorize your income 💵 and expenses 💸. With a clean and modern interface 🎨, you can analyze your financial trends 📈 and plan
+your budget effectively 📊. The app supports the Persian (Jalali) calendar 📅 and securely stores your data locally 🔒. Take full control of your finances and move towards a brighter financial future 🚀 with
+MoneySaver.
+
 ## 📌 Overview
 
 **MoneySaver** is a personal finance management application built with **Python** and **PyQt6**. It helps you:
