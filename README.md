@@ -63,8 +63,6 @@ MoneySaver.
 
 **GitHub:** [@hosseinesfahani](https://github.com/hosseinesfahani)  
 
----
-
 ## 📂 Installation
 
 ### 📦 Prerequisites
