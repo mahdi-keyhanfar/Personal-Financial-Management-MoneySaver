@@ -22,7 +22,8 @@ def login_wnd():
     wnd_l.setWindowTitle("Money Saver | Login")
     icon_path = os.path.join(os.path.dirname(__file__), "ico.png")
     wnd_l.setWindowIcon(QIcon(icon_path))
-
+    
+    
     label_l_1 = QLabel(wnd_l)
     label_l_1.setText("نام کاربری")
     label_l_1.setFont(font_10)
