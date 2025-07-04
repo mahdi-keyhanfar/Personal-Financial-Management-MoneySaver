@@ -32,3 +32,6 @@ V_DPM_Email = None
 # Def Variables
 V_RepPass_Bool = None
 V_Username_Bool = None
+
+
+V_Users_Data = None
