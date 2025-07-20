@@ -27,7 +27,7 @@ def login_wnd():
         V_DPM_Username = txt_l_1.text()
         V_DPM_Password = txt_l_2.text()
         
-        if check_credentials(V_DPM_Username, V_DPM_Username):
+        if check_credentials(V_DPM_Username, V_DPM_Password):
             Login_Action()
         else:
             QMessageBox.warning(wnd_l, "خطا", "نام کاربری یا رمز عبور اشتباه است")
@@ -79,7 +79,6 @@ def check_credentials(username: str, password: str) -> bool:
         cursor.execute("SELECT * FROM users WHERE username=? AND password=?", (username, password))
         user_data = cursor.fetchone()
 
-        conn.close()
         return user_data is not None
 
     except Exception as e:
