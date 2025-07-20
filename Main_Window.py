@@ -19,13 +19,13 @@ def main_wnd():
     
     global wnd_m
     wnd_m = QWidget()
-    wnd_m.setFixedSize(1300, 700)
+    wnd_m.setFixedSize(1300, 600)
     wnd_m.setWindowTitle("Money Saver | Dashboard")
     icon_path = os.path.join(os.path.dirname(__file__), "ico.png")
     wnd_m.setWindowIcon(QIcon(icon_path))
 
     tab_m = QTabWidget(wnd_m)
-    tab_m.setGeometry(10, 10, 1280, 680)
+    tab_m.setGeometry(10, 10, 1280, 580)
 
     tab_home = QWidget()
     
@@ -60,35 +60,35 @@ def main_wnd():
 
     lbl_h_Payment = QLabel("پرداختی 🟥", tab_home)
     lbl_h_Payment.setFont(font_18)
-    lbl_h_Payment.move(800, 240)
+    lbl_h_Payment.move(750, 240)
 
     lbl_h_Payment_Show = QLabel("1,500,000 T", tab_home)
     lbl_h_Payment_Show.setFont(font_18)
-    lbl_h_Payment_Show.move(645, 240)
+    lbl_h_Payment_Show.move(595, 240)
 
     lbl_h_Received = QLabel("دریافتی 🟩", tab_home)
     lbl_h_Received.setFont(font_18)
-    lbl_h_Received.move(800, 320)
+    lbl_h_Received.move(750, 360)
 
     lbl_h_Received_Show = QLabel("500,000 T", tab_home)
     lbl_h_Received_Show.setFont(font_18)
-    lbl_h_Received_Show.move(645, 320)
+    lbl_h_Received_Show.move(595, 360)
 
     lbl_h_FundTransfer = QLabel("انتقال وجه 📨", tab_home)
     lbl_h_FundTransfer.setFont(font_18)
-    lbl_h_FundTransfer.move(30, 350)
+    lbl_h_FundTransfer.move(280, 240)
 
     lbl_h_FundTransfer_Show = QLabel("1,560,000 T", tab_home)
     lbl_h_FundTransfer_Show.setFont(font_18)
-    lbl_h_FundTransfer_Show.move(30, 390)
+    lbl_h_FundTransfer_Show.move(130, 240)
 
     lbl_h_Installments = QLabel("قسط ها 📇", tab_home)
     lbl_h_Installments.setFont(font_18)
-    lbl_h_Installments.move(30, 430)
+    lbl_h_Installments.move(280, 360)
 
     lbl_h_Installments_Show = QLabel("20,200,000 T", tab_home)
     lbl_h_Installments_Show.setFont(font_18)
-    lbl_h_Installments_Show.move(30, 430)
+    lbl_h_Installments_Show.move(130, 360)
 
     # ComboBox
     combo_h_SelectAcc = QComboBox(tab_home)
